@@ -4,8 +4,6 @@ channels:
 dependencies:
   - requests
   - pycurl
-  - requests
   - xmltodict
-  - setuptools
   - beautifulsoup4
   - lxml
